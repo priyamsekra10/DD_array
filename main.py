@@ -125,7 +125,7 @@ def send_confirmation_email(email, name):
     smtp_port = 587
     smtp_username = 'arraygraphs.services@gmail.com'  # Gmail sender email
     smtp_password = 'xyttkiflarkzegbi'  # Replace with your Gmail password
-
+# asiknfjoi
     # Load the HTML email template
     with open('DD.html', 'r') as file:
         email_template = file.read()
